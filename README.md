@@ -1,4 +1,4 @@
-Nexus repository is closed. So just fork and move it to jitpack repository
+Original repository is closed. So just fork and move it to jitpack repository
 
 SwipeMenuListView
 =================
