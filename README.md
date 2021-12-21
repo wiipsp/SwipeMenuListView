@@ -1,7 +1,7 @@
 SwipeMenuListView
 =================
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SwipeMenuListView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/912)
-[ ![Download](https://api.bintray.com/packages/baoyongzhang/maven/SwipeMenuListView/images/download.svg) ](https://bintray.com/baoyongzhang/maven/SwipeMenuListView/_latestVersion)
+[![](https://jitpack.io/v/wiipsp/SwipeMenuListView.svg)](https://jitpack.io/#wiipsp/SwipeMenuListView)
 
 A swipe menu for ListView.
 
