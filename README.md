@@ -1,3 +1,5 @@
+Nexus repository is closed. So just fork and move it to jitpack repository
+
 SwipeMenuListView
 =================
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SwipeMenuListView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/912)
@@ -15,8 +17,14 @@ A swipe menu for ListView.
 ### Add dependency
 
 ```groovy
+allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+}
+
 dependencies {
-    compile 'com.baoyz.swipemenulistview:library:1.3.0'
+    implementation 'com.github.wiipsp:SwipeMenuListView:v1.3.2'
 }
 ```
 
